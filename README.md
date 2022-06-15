@@ -19,9 +19,9 @@ App web que simula um e-commerce utilizando uma api-fake para compra de produtos
 
 ### `Como iniciar?`
 
-1 - Defina em seu terminal o diretório "*Project*" e digite "*json-server server.json -p 3333*" para iniciar a API fake;
+1 - Defina em seu terminal o diretório "*Rocketshoes*" e digite "*json-server server.json -p 3333*" para iniciar a API fake;
 
-2 - Defina em seu terminal o diretório "*Project*" e digite "*yarn start*" para inicar a aplicação.
+2 - Defina em seu terminal o diretório "*Rocketshoes*" e digite "*yarn start*" para inicar a aplicação.
 
 ### `Como usar?`
 
