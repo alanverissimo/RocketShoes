@@ -29,7 +29,9 @@ Adicione os produtos desejados ao carrinho e simule sua compra.
 
 ### `Demonstração`
 
-![GIF](https://i.imgur.com/6BKVyon.gif)
+
+https://user-images.githubusercontent.com/79871232/173718929-e174ec58-f2b1-43f1-9d36-ff5c1b7571a8.mp4
+
 
 ------------------------------------------------------------------
 
